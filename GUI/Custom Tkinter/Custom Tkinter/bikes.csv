@@ -1,0 +1,30 @@
+id,name,model,engine,gear_type,model_year,rate_per_hour
+2,Bajaj Platina 112,H Gear,115.45cc,Manual,2022,50
+5,Hero Splendor Plus,XTEC,97.2cc,Manual,2021,14
+6,Hero Splendor Plus,XTEC,97.2cc,Manual,2021,15
+7,Honda Activa 6G,DLX,109.51cc,Automatic,2023,16
+8,Honda Activa 6G,DLX,109.51cc,Automatic,2023,15
+9,Honda CB350 H'ness,DLX,348.36cc,Manual,2023,20
+10,Honda CB350 H'ness,DLX,348.36cc,Manual,2023,19
+11,Honda Shine,Drum,123.94cc,Manual,2021,15
+12,Honda Shine,Drum,123.94cc,Manual,2021,16
+13,Jawa 42,Bobber,294.7cc,Manual,2022,19
+14,Jawa 42,Bobber,294.7cc,Manual,2022,18
+15,Ola S1 Pro,Gen 2,8.5kW Electric,Automatic,2023,20
+16,Ola S1 Pro,Gen 2,8.5kW Electric,Automatic,2023,19
+17,Royal Enfield Classic 350,Redditch,349cc,Manual,2023,19
+18,Royal Enfield Classic 350,Redditch,349cc,Manual,2023,18
+19,Royal Enfield Meteor 350,Supernova,349cc,Manual,2023,19
+20,Royal Enfield Meteor 350,Supernova,349cc,Manual,2023,20
+21,Suzuki Access 125,SE,124cc,Automatic,2024,16
+22,Suzuki Access 125,SE,124cc,Automatic,2024,17
+23,Suzuki Burgman Street,EX,124cc,Automatic,2024,18
+24,Suzuki Burgman Street,EX,124cc,Automatic,2024,17
+25,TVS Apache RTR 160 4V,Drum,159.7cc,Manual,2023,18
+26,TVS Apache RTR 160 4V,Drum,159.7cc,Manual,2023,19
+27,TVS Jupiter,ZX,109.7cc,Automatic,2022,16
+28,TVS Jupiter,ZX,109.7cc,Automatic,2022,15
+29,TVS Raider 125,Drum,124.8cc,Manual,2022,16
+30,TVS Raider 125,Drum,124.8cc,Manual,2022,17
+31,Yamaha FZ-S V3,Dark Knight,149cc,Manual,2022,17
+32,Yamaha FZ-S V3,Dark Knight,149cc,Manual,2022,16

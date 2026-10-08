@@ -1,0 +1,6 @@
+id,date,time,return,ret_time,bike_name,model,engine,gear_type,model_year,user_name,aadhar,phone_number,address,status,rate_per_hour
+2,2025-10-11,01:41:36.902230,2025-10-11,01:47:39,Bajaj Platina 112,H Gear,115.45cc,Manual,2022,Aditya,666666666666.0,9874563210.0,Takali,Returned,16
+8,2025-10-11,01:43:43,2025-10-12,01:47:39,Honda Activa 6G,DLX,109.51cc,Automatic,2023,Amit,999999999999.0,8888888888.0,Ara,Returned,15
+3,2025-10-10,01:54:38,2025-10-11,01:55:17,Hero Passion Pro,XTEC,110cc,Manual,2022,Aditya,658745214523.0,985247563.0,Pune,Returned,15
+13,2025-10-11,11:14:27,2025-10-11,11:15:13,Jawa 42,Bobber,294.7cc,Manual,2022,Ankit,1234567892345.0,9876543210.0,Baraon,Returned,19
+4,2025-10-11,12:20:20,NAN,NAN,Hero Passion Pro,XTEC,110cc,Manual,2022,Amit,676543213456,9876543456,Ara,Rented,16

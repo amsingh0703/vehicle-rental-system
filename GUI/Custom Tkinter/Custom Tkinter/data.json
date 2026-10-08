@@ -1,0 +1,25 @@
+{
+    "admin": [
+        {
+            "username": "r",
+            "password": "r"
+        }
+    ],
+    "user": [
+        {
+            "username": "r",
+            "password": "r",
+            "name": "Ritesh"
+        },
+        {
+            "username": "Amit",
+            "password": "amit@123",
+            "name": "Amit"
+        },
+        {
+            "username": "dg",
+            "password": "2006",
+            "name": "Deemanth"
+        }
+    ]
+}

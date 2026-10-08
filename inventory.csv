@@ -1,0 +1,74 @@
+VEHICLE-ID,Model Name,Fuel Type,Transmission,Rate/Hr,Status
+1,Honda CD 110 Dream,Petrol,Manual,30,Rented
+2,Honda Livo,Petrol,Manual,30,Available
+3,Honda Shine 100,Petrol,Manual,30,Available
+4,Honda Shine 125,Petrol,Manual,30,Available
+5,Honda SP 125,Petrol,Manual,30,Available
+6,Honda Unicorn,Petrol,Manual,30,Available
+7,Honda SP 160,Petrol,Manual,40,Available
+8,Honda Hornet 2.0,Petrol,Manual,40,Available
+9,Honda CB200X,Petrol,Manual,50,Available
+10,Honda Livo +,Petrol,Manual,60,Available
+11,Honda CBR300R,Petrol,Manual,50,Available
+12,Honda CRF300L / Rally,Petrol,Manual,60,Available
+13,Honda CB500F,Petrol,Manual,100,Available
+14,Honda CBR500R,Petrol,Manual,100,Available
+15,Honda Rebel 500,Petrol,Manual,100,Available
+16,Honda CB650R,Petrol,Manual,130,Available
+17,Honda CBR650R,Petrol,Manual,130,Available
+18,Honda XL750 Transalp,Petrol,Manual,200,Available
+19,Hero HF 100,Petrol,Manual,25,Available
+20,Hero HF Deluxe,Petrol,Manual,25,Available
+21,Hero HF Deluxe Pro,Petrol,Manual,25,Available
+22,Hero Splendor Plus,Petrol,Manual,30,Available
+23,Hero Splendor Plus Xtec,Petrol,Manual,30,Available
+24,Hero Passion Plus,Petrol,Manual,30,Available
+25,Hero Super Splendor Xtec,Petrol,Manual,35,Available
+26,Hero Glamour,Petrol,Manual,35,Available
+27,Hero Glamour Xtec,Petrol,Manual,35,Available
+28,Hero Xtreme 125R,Petrol,Manual,40,Available
+29,Hero Xtreme 160R,Petrol,Manual,40,Available
+30,Hero Xpulse 200 4V,Petrol,Manual,50,Available
+31,Hero Xpulse 210,Petrol,Manual,50,Available
+32,Hero Karizma XMR,Petrol,Manual,55,Available
+33,Hero Xtreme 250R,Petrol,Manual,60,Available
+34,Hero Mavrick 440,Petrol,Manual,80,Available
+35,Hero Xpulse 421 (upcoming),Petrol,Manual,80,Available
+36,Hero Karizma 400 (rumored),Petrol,Manual,80,Available
+37,TVS Sport,Petrol,Manual,25,Available
+38,TVS Star City Plus,Petrol,Manual,25,Available
+39,TVS Radeon,Petrol,Manual,25,Available
+40,TVS Jupiter,Petrol,Manual,30,Available
+41,TVS Jupiter 125,Petrol,Manual,30,Available
+42,TVS Ntorq 125,Petrol,Manual,35,Available
+43,TVS Apache RTR 160,Petrol,Manual,40,Available
+44,TVS Apache RTR 200 4V,Petrol,Manual,50,Available
+45,TVS Apache RR 310,Petrol,Manual,70,Available
+46,TVS Raider 125,Petrol,Manual,35,Available
+47,TVS Ronin 225,Petrol,Manual,60,Available
+48,Maruti Suzuki Swift,"Petrol, CNG, Mild Hybrid","Manual, AMT",300,Available
+49,Maruti Suzuki Dzire,"Petrol, CNG","Manual, AMT",300,Available
+50,Maruti Suzuki Wagon R,"Petrol, CNG","Manual, AMT",300,Available
+51,Maruti Suzuki Celerio,"Petrol, CNG","Manual, AMT",300,Available
+52,Maruti Suzuki Grand Vitara,"Petrol, Strong Hybrid","Manual, Automatic",300,Available
+53,Maruti Suzuki Brezza,Petrol,"Manual, Automatic",300,Available
+54,Tata Punch,Petrol,"Manual, AMT",300,Available
+55,Tata Altroz,"Petrol, Diesel, CNG","Manual, AMT, DCT",300,Available
+56,Tata Nexon,"Petrol, Diesel","Manual, AMT, DCT",300,Available
+57,Tata Curvv,"Petrol, Diesel, Electric","Manual, Automatic, EV (1-speed)",300,Available
+58,Hyundai i20,"Petrol, CNG","Manual, CVT",400,Available
+59,Hyundai Exter,"Petrol, CNG","Manual, AMT",400,Available
+60,Hyundai Verna,"Petrol (NA, Turbo)","Manual, CVT, DCT",400,Available
+61,Hyundai Creta,"Petrol, Diesel","Manual, IVT, DCT",400,Available
+62,Hyundai Venue,"Petrol, Diesel","Manual, iMT, DCT",500,Available
+63,Kia Seltos,"Petrol, Diesel","Manual, CVT, DCT, Torque Conv",500,Available
+64,Kia Sonet,"Petrol, Diesel","Manual, iMT, DCT",700,Available
+65,Toyota Urban Cruiser Hyryder,"Petrol, Strong Hybrid, CNG","Manual, Automatic",700,Available
+66,Toyota Innova HyCross,"Petrol, Strong Hybrid",Automatic,700,Available
+67,Mahindra XUV300,"Petrol, Diesel","Manual, AMT",700,Available
+68,Mahindra Scorpio-N,"Petrol, Diesel","Manual, Automatic",800,Available
+69,Mahindra XUV700,"Petrol, Diesel","Manual, Automatic",800,Available
+70,MG Astor,Petrol,"Manual, CVT",800,Available
+71,MG ZS EV,Electric,EV (Single-speed automatic),700,Available
+72,Honda Amaze,Petrol,"Manual, CVT",600,Available
+73,Honda City,"Petrol, Hybrid","Manual, CVT (Hybrid = e-CVT)",850,Available
